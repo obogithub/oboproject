@@ -1,5 +1,6 @@
 ![OBO](https://avatars.githubusercontent.com/u/106155047?v=4)  
 # What is OBO?
+## **OBO contract address: 0x3Fd16E6d1ec0Afc8d3fF88C2A11f3901688155e1**  
 Digital currency is not only financial infrastructure, but also a new type of financial tool.   
 OBO is a project that aims to invest in a variety of future digital cryptocurrencies.  
 The project token OBO will be distributed to different random users through airdrops, donation exchanges, etc. The purpose is to give every small individual a chance to participate in the future trend of digital currency.  
